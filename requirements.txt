@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+streamlit
+seaborn
+plotly
+streamlit-option-menu
+streamlit-aggrid
+streamlit-extras
+streamlit-cards
+streamlit-caching
+streamlit-cached-data
+streamlit-analytics
+streamlit-cookies-manager
+
